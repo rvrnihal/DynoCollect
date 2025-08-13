@@ -1,0 +1,12 @@
+flask==2.2.5
+flask-cors==3.0.10
+python-dotenv==1.0.1
+supabase==1.0.3
+streamlit==1.24.0
+python-multipart==0.0.6
+requests==2.31.0
+altair==5.2.0
+boto3==1.28.38 
+flask-session==0.5.0
+werkzeug==2.2.3
+
